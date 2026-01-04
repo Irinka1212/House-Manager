@@ -1,0 +1,19 @@
+2026-01-02 18:31:39 | Company: SmartHouse Ltd | Employee: Alice | Building: Main Street 1 | Apartment: 101 | Amount: 135.00
+2026-01-02 18:36:43 | Company: SmartHouse Ltd | Employee: Alice | Building: Main Street 1 | Apartment: 101 | Amount: 135.00
+2026-01-04 21:17:52 | Company: UrbanLiving Solutions | Employee: Alice Johnson | Building: Main Street 1 | Apartment: 101 | Amount: 135.00
+2026-01-04 21:24:49 | Company: Hello Solutions | Employee: Alice Johnson | Building: Main Street 1 | Apartment: 101 | Amount: 135.00
+2026-01-04 21:25:17 | Company: World Solutions | Employee: Alice Johnson | Building: Main Street 1 | Apartment: 101 | Amount: 135.00
+2026-01-04 22:31:08 | Company: Test Solutions | Employee: Alice Johnson | Building: Main Street 1 | Apartment: 101 | Amount: 125.00
+2026-01-04 22:32:01 | Company: Test 2 Solutions | Employee: Alice Johnson | Building: Main Street 1 | Apartment: 101 | Amount: 125.00
+2026-01-04 22:32:28 | Company: Test 3 Solutions | Employee: Alice Johnson | Building: Main Street 2 | Apartment: 101 | Amount: 125.00
+2026-01-04 22:41:47 | Company: SmartHouse Solutions | Employee: Alice Johnson | Building: Main Street 2 | Apartment: 101 | Amount: 135.00
+2026-01-04 22:49:08 | Company: Hey Ltd | Employee: Alice Mickalson | Building: Main Street 2 | Apartment: 101 | Amount: 135.00
+2026-01-04 22:51:43 | Company: Big Mike Ltd | Employee: Mike Anderson | Building: Main Street 2 | Apartment: 101 | Amount: 135.00
+2026-01-04 23:06:56 | Company: Domoupravitel Plus | Employee: Ivan Ivanov | Building: Sofia, Main Street 10 | Apartment: 1A | Amount: 140.00
+2026-01-04 23:06:56 | Company: Domoupravitel Plus | Employee: Ivan Ivanov | Building: Sofia, Main Street 10 | Apartment: 1B | Amount: 127.50
+2026-01-04 23:06:56 | Company: Domoupravitel Plus | Employee: Maria Petrova | Building: Sofia, Main Street 12 | Apartment: 2A | Amount: 135.00
+2026-01-04 23:06:56 | Company: Domoupravitel Plus | Employee: Maria Petrova | Building: Sofia, Main Street 12 | Apartment: 2B | Amount: 105.00
+2026-01-04 23:22:20 | Company: Hey Plus | Employee: Ivan Ivanov | Building: Sofia, Main Street 10 | Apartment: 1A | Amount: 140.00
+2026-01-04 23:22:20 | Company: Hey Plus | Employee: Ivan Ivanov | Building: Sofia, Main Street 10 | Apartment: 1B | Amount: 127.50
+2026-01-04 23:22:20 | Company: Hey Plus | Employee: Maria Petrova | Building: Sofia, Main Street 12 | Apartment: 2A | Amount: 135.00
+2026-01-04 23:22:20 | Company: Hey Plus | Employee: Maria Petrova | Building: Sofia, Main Street 12 | Apartment: 2B | Amount: 105.00
